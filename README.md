@@ -12,4 +12,17 @@ Arduino IDE > Sketch > Include Library > Manage Libraries > DHT SENSOR.
 
 DHT11 sensor normally comes with only three pins: VCC, GND and the Data line. Data Line is connected to GPIO4 (D4).
 
-## [Basic Webpage]()
+## Results
+
+### [Video](https://youtu.be/BT371hezdPE)
+
+#### Serial Monitor
+![Serial Monitor](https://github.com/Shrutii07/Temperature-and-Humidity-Monitor/blob/main/Results/dht.png)
+
+### [Basic Webpage](https://github.com/Shrutii07/Temperature-and-Humidity-Monitor/blob/main/Basic_webpage.ino)
+
+<img src="https://github.com/Shrutii07/Temperature-and-Humidity-Monitor/blob/main/Results/ws1.jpeg" height="300" width="450">
+
+### [Advance Webpage](https://github.com/Shrutii07/Temperature-and-Humidity-Monitor/blob/main/Adv-Webpage.ino)
+
+<img src="https://github.com/Shrutii07/Temperature-and-Humidity-Monitor/blob/main/Results/ws2.jpeg" height="500" width="300">
